@@ -1,0 +1,28 @@
+{
+  "name": "ecu",
+  "version": "1.0.0",
+  "description": "ecu",
+  "main": "index.js",
+  "dependencies": {
+    "@zeit/next-less": "^1.0.1",
+    "less": "^4.1.1",
+    "mdb-react-ui-kit": "^1.0.0-beta7",
+    "mdbreact": "^5.0.2",
+    "next": "^11.0.0",
+    "react": "^17.0.2",
+    "react-countup": "^4.3.3",
+    "react-dom": "^17.0.2",
+    "react-select": "^4.3.1",
+    "recharts": "^2.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "devwin": "./node_modules/.bin/next.cmd dev -p 3005",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC"
+}
