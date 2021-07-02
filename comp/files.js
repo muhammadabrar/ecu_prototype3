@@ -98,7 +98,7 @@ colors: {
 </div>
   </div>
 <MDBTable small responsive hover striped bordered dark borderColor="black" className="pt-5" style={{color: "#000"}} >
-<MDBTableHead className="bg-primary">
+<MDBTableHead className="bg-warning">
   <tr>
     <th scope='col'>#</th>
     <th scope='col'>Make and model</th>

@@ -16,7 +16,7 @@ export default function About(props) {
                <div className="col-md-4">
                 <img src="./l-bg.jpg" className="about-image"/>
                </div>
-               <div className="about-text text-primary p-3 col-md-6">
+               <div className="about-text text-warning p-3 col-md-6">
                    <h2><u><b>Tested-ECU Solutions</b></u></h2>
                    <p><b>Tested-ECU Solutions</b> is supplier of high quality custom remapped tuning software files for almost all the popular petrol and diesel vehicles.</p>
                    <p><b>Tested-ECU Solutions</b> has its own R&D department for continuous product development. We supply custom remapped files in only 4 steps. That's what we call easy!</p>

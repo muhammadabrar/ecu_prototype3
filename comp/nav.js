@@ -46,7 +46,7 @@ export default function Nav(props) {
     
   </section>
         <header className="sticky-top ">
-        <MDBNavbar  expand='lg' bgColor="primary"  dark className="shadow">
+        <MDBNavbar  expand='lg' bgColor="warning"  dark className="shadow">
           <MDBContainer container>
             <MDBNavbarBrand href='#'><img src="./logo.png" className="logo"/><b>Tested ECU Solutions</b> 
         </MDBNavbarBrand>

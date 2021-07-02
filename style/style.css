@@ -21,7 +21,7 @@
   }
   
   #topbar .contact-info i {
-    color: #1266F1;
+    color: #FFA900;
     line-height: 0;
     margin-right: 5px;
   }
@@ -145,9 +145,9 @@
 }
 .call-to-action:hover{
   color: #fff;
-  border: 2px solid #1266F1;
+  border: 2px solid #FFA900;
 
-  background: #1266F1;
+  background: #FFA900;
 }
 .text{
   padding: 10px;
@@ -202,7 +202,7 @@
 }
 .select-car{
   border: 2px solid #fff;
-  background-color: #1266F1;
+  background-color: #FFA900;
   color: #000;
   padding: 20px;
 }
@@ -222,7 +222,7 @@
 .title{
   text-transform: capitalize;
   font-weight: bold;
-  color: #1266F1;
+  color: #FFA900;
 }
 
 
@@ -235,13 +235,13 @@
   padding: 5px 10px;
   transition: 0.4s linear;
   margin: 2px;
-  background-color: #1266F1;
+  background-color: #FFA900;
   text-align: center;
 }
 .Button:hover{
-  color: #1266F1;
+  color: #FFA900;
   background: #fff;
-  border: 2px solid #1266F1;
+  border: 2px solid #FFA900;
 
 }
 .cta-btn {
@@ -260,8 +260,8 @@
 }
 
  .cta-btn:hover {
-  background: #1266F1;
-  border: 2px solid #1266F1;
+  background: #FFA900;
+  border: 2px solid #FFA900;
   color: #fff;
 
 }
@@ -407,7 +407,7 @@ section {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #1266F1;
+  background: #FFA900;
   transition: all .3s ease-out 0s;
   display: flex;
   align-items: center;
@@ -428,7 +428,7 @@ section {
   top: -8px;
   height: 100%;
   width: 100%;
-  background: #46b7f8;
+  background: #ffaa009d;
   transition: all .3s ease-out 0s;
   transform: translateZ(-1px);
 }
@@ -450,8 +450,8 @@ section {
 }
 
 .services .icon-box:hover {
-  background: #1266F1;
-  border-color: #1266F1;
+  background: #FFA900;
+  border-color: #FFA900;
   padding: 70px 20px 90px 20px;
 }
 
@@ -460,11 +460,11 @@ section {
 }
 
 .services .icon-box:hover .icon i {
-  color: #1266F1;
+  color: #FFA900;
 }
 
 .services .icon-box:hover .icon::before {
-  background: #0277BD;
+  background: #ffbc37;
 }
 
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
@@ -483,10 +483,10 @@ section {
 
 .contact .info-box i {
   font-size: 32px;
-  color: #1266F1;
+  color: #FFA900;
   border-radius: 50%;
   padding: 8px;
-  border: 2px dotted #1266F1;
+  border: 2px dotted #FFA900;
 }
 
 .contact .info-box h3 {
@@ -511,7 +511,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #1266F1;
+  background: #FFA900;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -557,7 +557,7 @@ section {
 }
 
 .contact .php-email-form input::focus, .contact .php-email-form textarea::focus {
-  background-color: #1266F1;
+  background-color: #FFA900;
 }
 
 .contact .php-email-form input {
@@ -569,7 +569,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #1266F1;
+  background: #FFA900;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -577,7 +577,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #0277BD;
+  background: #FFA900;
 }
 
 
@@ -657,7 +657,7 @@ details[open] summary ~ * {
   margin-bottom: 15px;
   background: #191919;
   color: #fff;
-  border-top: 4px solid #1266F1;
+  border-top: 4px solid #FFA900;
   text-align: center;
   padding: 30px 20px;
 }
@@ -693,7 +693,7 @@ details[open] summary ~ * {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #1266F1;
+  background: #FFA900;
   color: #fff;
   text-decoration: none;
 }
@@ -718,7 +718,7 @@ details[open] summary ~ * {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #1266F1;
+  color: #FFA900;
   font-size: 18px;
   line-height: 1;
 }
@@ -741,7 +741,7 @@ details[open] summary ~ * {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #1266F1;
+  color: #FFA900;
 }
 
 #footer .footer-top .footer-newsletter form {
@@ -767,14 +767,14 @@ details[open] summary ~ * {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #1266F1;
+  background: #FFA900;
   color: #fff;
   transition: 0.3s;
   border-radius: 4;
 }
 
 #footer .footer-top .footer-newsletter form input[type="submit"]:hover {
-  background: #0277BD;
+  background: #FFA900;
 }
 
 #footer .copyright {
@@ -791,7 +791,7 @@ details[open] summary ~ * {
 }
 
 #footer .credits a {
-  color: #0277BD;
+  color: #FFA900;
 }
 
 @media (max-width: 575px) {
@@ -975,8 +975,7 @@ right: 50px;
  }
  .active{
   
-  background-color: #fff;
-  padding: 5px;
+  box-shadow: 0 10px 27px rgba(0, 0, 0, 0.1);
 
 
  }
